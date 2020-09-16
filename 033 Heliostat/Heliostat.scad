@@ -54,7 +54,7 @@ color("Cornsilk")translate(v = [0, 0,131]) zrot(-64) yrot(180)	import ("stl/14_T
  
 
 //SG90
-use <sg90.scad>;
+use <stl/sg90.scad>;
 translate([35,-14,14.5]) zrot(60) sg90();
 translate([-4.5, 36.75, 6.5])  sg90();
 translate([-29.5, -22.5, 22])zrot(300) sg90();      
