@@ -1,6 +1,6 @@
-## Qr-Code Halter
+## QR-Code Halter
 
-Aufsteller bei Demo-Objekten mit QR-Code Ausdruck.
+Aufsteller bei den Demo-Objekten mit QR-Code Ausdruck.
 
 Slicer: FlashPrint
 
