@@ -1,4 +1,4 @@
-/* BQAtterie Halter für Calliope
+/* Batterie-Clip für Calliope
     Code mit Library: /lib 
     KHF 10-2020
     V1.0
