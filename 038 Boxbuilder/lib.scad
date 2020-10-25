@@ -1,9 +1,3 @@
-// Library: boxes.scad
-// Version: 1.0
-// Author: Marius Kintel
-// Copyright: 2010
-// License: BSD
-
 // roundedBox([width, height, depth], float radius, bool sidesonly);
 
 // EXAMPLE USAGE:
