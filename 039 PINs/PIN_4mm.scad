@@ -13,7 +13,7 @@ difference(){
 //Knubbl
 union(){
 translate([0,0,10])
-cylinder (h=1, d1=D_kubb, d2=D_kubb-1);
+cylinder (h=1, d1=D_kubb, d2=D_kubb-2);
 translate([0,0,8])
 cylinder (h=1, d1=D_kubb-0.5, d2=D_kubb);
 translate([0,0,9])
